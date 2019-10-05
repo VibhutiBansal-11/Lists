@@ -1,2 +1,2 @@
-# Lists
- Average and Cross Multiplication
+# Projects
+ Collection of initial programs/projects!
